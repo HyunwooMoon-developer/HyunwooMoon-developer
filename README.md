@@ -3,7 +3,7 @@
 
 ## About me
 
-- 🔍 View my portfolio <a href="https://hyunwoomoon-portolio.vercel.app/">here</a>
+- 🔍 View my portfolio <a href="https://hyunwoomoon-portolio.vercel.app/" target="_blank">here</a>
 - 💬 Message me here: <a href="https://www.linkedin.com/in/hyunwoomoon/">LinkedIn</a>
 - 💌 Reach me via email: mhw9163@gmail.com
 - 📣 I'm currently learning Next.js  !!
